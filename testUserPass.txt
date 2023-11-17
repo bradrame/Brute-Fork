@@ -1,0 +1,3 @@
+fake.email.1@gmail.com:Draconi@nKn1ght
+fake.email.2@aol.com:DarkMatterP1@n3t
+fake.email.3@proton.com:FakeP@ssw0rd666 [pts:255] [apples]
