@@ -6,3 +6,5 @@ You may need to download Firefox to run it (based on my personal preference).
 Once it is running, there is a step by step guide to help you navigate your attack point.
 
 This app was designed to be easy enough for a cave man to use.
+
+Requirements: [Firefox browser] [Windows OS]
